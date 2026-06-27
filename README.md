@@ -1,6 +1,5 @@
 # 💫 About Me:
-This project showcases a clean and professional restaurant website with a focus on usability, responsive design, and modern web development practices.
-
+A responsive eye clinic website featuring services, appointment booking, and contact sections.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:localbtstudio@gmail.com) 
